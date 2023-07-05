@@ -1,0 +1,366 @@
+[
+  {
+    "abb": "ACN",
+    "explanation": "Acetonitril"
+  },
+  {
+    "abb": "AcOH",
+    "explanation": "Essigsaeure"
+  },
+  {
+    "abb": "AC2O",
+    "explanation": "Essigsaeureanhydrid"
+  },
+  {
+    "abb": "AD",
+    "explanation": "Active Directory"
+  },
+  {
+    "abb": "ALT",
+    "explanation": "Abfallloesemitteltank"
+  },
+  {
+    "abb": "ALW",
+    "explanation": "Abluftwaescher"
+  },
+  {
+    "abb": "ATEX",
+    "explanation": "Atmosphère Explosive"
+  },
+  {
+    "abb": "AWT",
+    "explanation": "Allgemeine Weisung Technik"
+  },
+  {
+    "abb": "BBU",
+    "explanation": "Bachem AG, Bubendorf"
+  },
+  {
+    "abb": "BTL",
+    "explanation": "Betriebstanklager"
+  },
+  {
+    "abb": "CAPA",
+    "explanation": "Corrective Action / Preventive Action"
+  },
+  {
+    "abb": "CFR",
+    "explanation": "Code of Federal Regulations"
+  },
+  {
+    "abb": "CIP",
+    "explanation": "Cleaning in Place"
+  },
+  {
+    "abb": "CMMS",
+    "explanation": "Computerized Maintenance Management System"
+  },
+  {
+    "abb": "CSV",
+    "explanation": "Computerisierte System-Validierung"
+  },
+  {
+    "abb": "DC",
+    "explanation": "Domain Controller"
+  },
+  {
+    "abb": "DMF",
+    "explanation": "Dimethylformamid"
+  },
+  {
+    "abb": "DMS ",
+    "explanation": "Dokumentenmanagementsystem (z.B. MasterControl)"
+  },
+  {
+    "abb": "DQ",
+    "explanation": "Design-Qualifizierung"
+  },
+  {
+    "abb": "EDT",
+    "explanation": "1,2-Ethandithiol"
+  },
+  {
+    "abb": "EU",
+    "explanation": "Europaeische Union"
+  },
+  {
+    "abb": "FAT",
+    "explanation": "Factory Acceptance Test"
+  },
+  {
+    "abb": "FDA",
+    "explanation": "Food and Drug Administration (US-Lebensmittel- und Arzneimittelbehoerde)"
+  },
+  {
+    "abb": "FEP",
+    "explanation": "Fluoriertes Ethylen-Propylen"
+  },
+  {
+    "abb": "FSP",
+    "explanation": "Spaltfilter"
+  },
+  {
+    "abb": "FT",
+    "explanation": "Filtertrockner"
+  },
+  {
+    "abb": "FTM",
+    "explanation": "Filtertrockner (mobil)"
+  },
+  {
+    "abb": "FU",
+    "explanation": "Frequenzumformer"
+  },
+  {
+    "abb": "FZS",
+    "explanation": "Feststoff-Zufuhr System"
+  },
+  {
+    "abb": "GAMP",
+    "explanation": "Gute Automations-Herstellpraxis (Good Automated Manufacturing Practice)"
+  },
+  {
+    "abb": "GEP",
+    "explanation": "Gute Ingenieurpraxis"
+  },
+  {
+    "abb": "ggf.",
+    "explanation": "gegebenenfalls"
+  },
+  {
+    "abb": "GMP",
+    "explanation": "Gute Herstellungspraxis (Gute Herstellpraxis)"
+  },
+  {
+    "abb": "GZS",
+    "explanation": "Gemischtzufuhrsystem"
+  },
+  {
+    "abb": "HEPA",
+    "explanation": "High Efficient Particulate Air"
+  },
+  {
+    "abb": "HMI",
+    "explanation": "Human Machine Interface"
+  },
+  {
+    "abb": "HSE",
+    "explanation": "Health, Safety and Environment"
+  },
+  {
+    "abb": "HOCl",
+    "explanation": "Hypochlorige Saeure"
+  },
+  {
+    "abb": "HPLC",
+    "explanation": "Hochleistungs-Fluessigkeitschromatographie (High Performance Liquid Chromatography)"
+  },
+  {
+    "abb": "IBN",
+    "explanation": "Inbetriebnahme"
+  },
+  {
+    "abb": "IH",
+    "explanation": "Instandhaltung"
+  },
+  {
+    "abb": "IP",
+    "explanation": "International Protection"
+  },
+  {
+    "abb": "IPA",
+    "explanation": "Isopropylalkohol"
+  },
+  {
+    "abb": "IPE",
+    "explanation": "Isopropylether"
+  },
+  {
+    "abb": "IQ",
+    "explanation": "Installationsqualifizierung (Installationsqualifizierung)"
+  },
+  {
+    "abb": "ISO",
+    "explanation": "Internationale Organisation fuer Normung"
+  },
+  {
+    "abb": "LSH",
+    "explanation": "Fuellstandschalter Hoch"
+  },
+  {
+    "abb": "LSL",
+    "explanation": "Fuellstandschalter Niedrig"
+  },
+  {
+    "abb": "MC",
+    "explanation": "MasterControl"
+  },
+  {
+    "abb": "MeOH",
+    "explanation": "Methanol"
+  },
+  {
+    "abb": "NIN",
+    "explanation": "Norm fuer Niederspannungsanlagen"
+  },
+  {
+    "abb": "NTP",
+    "explanation": "Network time protocol"
+  },
+  {
+    "abb": "OEB",
+    "explanation": "Occupational Exposure Band"
+  },
+  {
+    "abb": "OEL",
+    "explanation": "Occupational Exposure Limit"
+  },
+  {
+    "abb": "OQ",
+    "explanation": "Betriebsqualifikation"
+  },
+  {
+    "abb": "PED",
+    "explanation": "Druckgeraeterichtlinie 2014/68/EU"
+  },
+  {
+    "abb": "PFD",
+    "explanation": "Prozessfllussdiagramm"
+  },
+  {
+    "abb": "PID",
+    "explanation": "Rohrleitungs- und Instrumentierungsdiagramm"
+  },
+  {
+    "abb": "Pkt.",
+    "explanation": "Punkt"
+  },
+  {
+    "abb": "PLS",
+    "explanation": "Prozessleitsystem"
+  },
+  {
+    "abb": "PR",
+    "explanation": "Pump Rack"
+  },
+  {
+    "abb": "PRN",
+    "explanation": "Vorlaeufige Freigabe-Mitteilung (Preliminary Release Notification)"
+  },
+  {
+    "abb": "Produktsusp.",
+    "explanation": "Produktsuspension"
+  },
+  {
+    "abb": "PQ",
+    "explanation": "Performance Qualification (Leistungsqualifizierung)"
+  },
+  {
+    "abb": "PTFE",
+    "explanation": "Polytetrafluorethylen"
+  },
+  {
+    "abb": "PTS",
+    "explanation": "Powder Transfer System"
+  },
+  {
+    "abb": "PU",
+    "explanation": "Polyurethane"
+  },
+  {
+    "abb": "PU",
+    "explanation": "Package Unit"
+  },
+  {
+    "abb": "QA",
+    "explanation": "Quality Assurance"
+  },
+  {
+    "abb": "QRM",
+    "explanation": "Qualitaets-Risikomanagement (Quality Risk Management)"
+  },
+  {
+    "abb": "QS",
+    "explanation": "Qualitaetsspezifikation"
+  },
+  {
+    "abb": "RA",
+    "explanation": "Regulatorische Angelegenheiten"
+  },
+  {
+    "abb": "RE",
+    "explanation": "Reaktor"
+  },
+  {
+    "abb": "RTO",
+    "explanation": "Regenerative Thermische Oxidation"
+  },
+  {
+    "abb": "SAT",
+    "explanation": "Site Acceptance Test (Abnahmepruefung)"
+  },
+  {
+    "abb": "SCADA",
+    "explanation": "Supervisory Control and Data Acquisition"
+  },
+  {
+    "abb": "SGU",
+    "explanation": "Sicherheit Gesundheit Umwelt"
+  },
+  {
+    "abb": "SOP",
+    "explanation": "Standard Operating Procedure"
+  },
+  {
+    "abb": "SPP",
+    "explanation": "Solid Phase Peptide"
+  },
+  {
+    "abb": "STEM",
+    "explanation": "Stahl emailliert"
+  },
+  {
+    "abb": "SUVA",
+    "explanation": "Schweizerische Unfallversicherungsanstalt"
+  },
+  {
+    "abb": "SPS",
+    "explanation": "Speicherprogrammierbare Steuerung"
+  },
+  {
+    "abb": "TC",
+    "explanation": "Tri-Clamp"
+  },
+  {
+    "abb": "TEG",
+    "explanation": "Technisches Geraet"
+  },
+  {
+    "abb": "TFA",
+    "explanation": "Trifluoressigsaeure"
+  },
+  {
+    "abb": "TIG",
+    "explanation": "Tungsten Inert-Gaswelding"
+  },
+  {
+    "abb": "U/min",
+    "explanation": "Umdrehungen pro Minute"
+  },
+  {
+    "abb": "URS",
+    "explanation": "User Requirement Specification"
+  },
+  {
+    "abb": "USB",
+    "explanation": "Universal Serial Bus"
+  },
+  {
+    "abb": "USV",
+    "explanation": "Unterbrechungsfreie Stromversorgung"
+  },
+  {
+    "abb": "WAI",
+    "explanation": "Industrieabwasser"
+  }
+]
